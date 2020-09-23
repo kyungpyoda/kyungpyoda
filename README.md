@@ -2,10 +2,13 @@
 - ### Learning iOS in Boostcamp 5th
 
 ## Interest
-- ### Pizza 🍕
-- ### Burger King 🍔
+- ### Philosophy 
+- ### Pizza
+- ### Burger King
 
-[![Facebook Badge](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kyungpyoda_/)](https://www.instagram.com/kyungpyoda_/)
+<p align="center"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kyungpyoda_/"/></p>
+
+<img align="right" src="https://user-images.githubusercontent.com/44656036/94061411-4f3c9380-fe20-11ea-89d4-6323e1159b13.png" width="200"/>
 
 <!--
 **kyungpyoda/kyungpyoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
