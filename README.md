@@ -7,8 +7,11 @@
 - ### Burger King
 
 <img align="right" src="https://user-images.githubusercontent.com/44656036/94165485-3cc86580-fec5-11ea-81a0-354e27cdd66b.jpeg" width="200"/>
-<a align="right" href="https://www.instagram.com/kyungpyoda_/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kyungpyoda_/"/></a>
+<div align="right"><a href="https://www.instagram.com/kyungpyoda_/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a></div>
 
+<div align="right"
+
+[![](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kyungpyoda)</div>
 <!--
 **kyungpyoda/kyungpyoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
