@@ -1,5 +1,5 @@
 ## iOS tiny little junior engineer
-- ### Learning iOS in `Boostcamp 5th`
+- ### Learning **🍎iOS Development** in `Boostcamp 5th`
 
 ## Interest
 - ### Philosophy 
