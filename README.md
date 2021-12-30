@@ -2,7 +2,7 @@
 
 ![](https://media.giphy.com/media/myub4wKKdR0Wc/giphy.gif)
 
-```python
-[ Gist ] -> https://gist.github.com/kyungpyoda
-[ Blog ] -> https://kyungpyoda.tistory.com
-```
+|||
+|-|-|
+|**Gist**|https://gist.github.com/kyungpyoda|
+|**Blog**|https://kyungpyoda.tistory.com|
